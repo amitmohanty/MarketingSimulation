@@ -1,21 +1,21 @@
-Segment	Company	Product	Price	Weight	Complex.	Memory	Battery	Style
-product	red	Scarlet	-8.4	-11.2	-11.9	-6.6	-6.1	-5.8
-product	red	Crimson	15.9	6.2	-22.4	5.3	3.1	6.9
-product	orange	Navel	14.5	0.6	-3.5	-1.4	3.3	5.9
-product	orange	Mandarin	-11	-15	-11.1	-11.5	-17.8	-5.6
-product	yellow	Sunshine	-1.2	-4.4	3.9	3.5	-2.2	3.4
-product	yellow	PostIt	14.1	4.4	-14.8	-20.7	-16.3	-10.2
-product	green	Kermit	-0.6	4.5	5.4	12.1	-18.3	1.6
-product	green	Leaf	-0.7	-18.1	-1.4	-8.1	-15	16.8
-product	green	Duke	16.2	-5.8	-8.1	-8.1	-6.5	-8.1
-product	blue	Ocean	-7.4	-20	-20.1	7.6	-5.6	-11.5
-product	blue	Sky	0.1	-10	1.8	-6.1	-19.4	7.6
-product	blue	Denim	0	-10	-0.5	-6.1	-19.4	10.3
-product	blue	Azul	15.5	9.6	-1.4	-4.1	6.6	-8.8
-product	purple	Grape	-8.6	-11.2	-8.8	-8.8	-8.9	-8.8
-product	purple	Rain	-0.1	-15	5.9	9.6	-10.6	9.6
-Alpha	segment	segment	14.5	10.2	-10	-11.4	-3	0.8
-Beta	segment	segment	-7.5	-10.8	-13.9	-2.9	-16.7	-8
-Gamma	segment	segment	-1.3	-8.2	11	4.5	4.5	-0.6
-Delta	segment	segment	-1	-3.5	3.3	0.2	-13.6	12.3
-Epsilon	segment	segment	-11.9	3.1	-17.6	-17.9	-9.9	-18.2
+Segment,Company,Product,Price,Weight,Complex.,Memory,Battery,Style
+product,red,Scarlet,-8.4,-11.2,-11.9,-6.6,-6.1,-5.8
+product,red,Crimson,15.9,6.2,-22.4,5.3,3.1,6.9
+product,orange,Navel,14.5,0.6,-3.5,-1.4,3.3,5.9
+product,orange,Mandarin,-11,-15,-11.1,-11.5,-17.8,-5.6
+product,yellow,Sunshine,-1.2,-4.4,3.9,3.5,-2.2,3.4
+product,yellow,PostIt,14.1,4.4,-14.8,-20.7,-16.3,-10.2
+product,green,Kermit,-0.6,4.5,5.4,12.1,-18.3,1.6
+product,green,Leaf,-0.7,-18.1,-1.4,-8.1,-15,16.8
+product,green,Duke,16.2,-5.8,-8.1,-8.1,-6.5,-8.1
+product,blue,Ocean,-7.4,-20,-20.1,7.6,-5.6,-11.5
+product,blue,Sky,0.1,-10,1.8,-6.1,-19.4,7.6
+product,blue,Denim,0,-10,-0.5,-6.1,-19.4,10.3
+product,blue,Azul,15.5,9.6,-1.4,-4.1,6.6,-8.8
+product,purple,Grape,-8.6,-11.2,-8.8,-8.8,-8.9,-8.8
+product,purple,Rain,-0.1,-15,5.9,9.6,-10.6,9.6
+Alpha,segment,segment,14.5,10.2,-10,-11.4,-3,0.8
+Beta,segment,segment,-7.5,-10.8,-13.9,-2.9,-16.7,-8
+Gamma,segment,segment,-1.3,-8.2,11,4.5,4.5,-0.6
+Delta,segment,segment,-1,-3.5,3.3,0.2,-13.6,12.3
+Epsilon,segment,segment,-11.9,3.1,-17.6,-17.9,-9.9,-18.2
